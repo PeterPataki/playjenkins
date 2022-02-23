@@ -16,7 +16,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: 192.168.1.81:5000/justme/myweb:1
+      - image: 945713122731.dkr.ecr.eu-west-2.amazonaws.com/test_repo/myweb:1
         imagePullPolicy: Always
         name: myweb
 
