@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registry = "945713122731.dkr.ecr.eu-west-2.amazonaws.com/test_repo"
+    registry = "945713122731.dkr.ecr.eu-west-2.amazonaws.com/test_repo/myweb"
     dockerImage = ""
   }
 
